@@ -1,4 +1,4 @@
-Use `CopyUtils.deepCopy()` to create copy of an object.
+Use `deepCopy` function to create copy of an object.
 The usage of utility class restricted by the list of next types:
 - primitives;
 - strings;
